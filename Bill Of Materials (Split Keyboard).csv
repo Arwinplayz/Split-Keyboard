@@ -1,8 +1,9 @@
-Item,Description,Quantity,Unit Price ($ AUD),Total Price ($ AUD),URL,Running Total
-Kailh Choc Hotswap Socket x 10,Hotswap socket,6,$3.50,$21.00,Kailh Choc Hotswap Socket x 10 – Custom KBD,$21.00
-Rotary Encoder Modules EC11 Digital Potentiometer Push Button Switch,rotary encoder with knob,1,$27.45,$27.45,Create idea 5 Kits of 360 Degree Rotary Encoder Modules EC11 Digital Potentiometer Push Button Switch 5 Pins 20mm Shaft with Black Knob Cap : Amazon.com.au,$48.45
-Kailh Low Profile Choc Brown - 30 pack,Switches,2,$37.99,$75.98,"KAILH Official Store Low Profile Switch 1350 Chocolate Mechanical Keyboard Switch RGB SMD Clicky (30, Choc Brown)",$124.43
-Kailh CHOC Slim Keycaps - Milky White - 10 pack,Keycaps,6,$6.85,$41.10,https://core-electronics.com.au/kailh-choc-slim-key-caps-milky-white-10-pack.html#,$165.53
-402050 LiPo,Battery,2,$3.80,$7.60,https://www.aliexpress.com/p/tesla-landing/index.html?scenario=c_ppc_item_bridge&productId=32662701530&_immersiveMode=true&withMainCard=true&src=google&aff_platform=true&isdl=y,$173.13
-JLCPCB manufacturing ,PCB,2,$13.00,$26.00,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=180&stencilLength=130&stencilCounts=5&plateType&spm=Jlcpcb.Homepage.1010,$199.13
-3D printed case,Case,1,-,-,-,$199.13
+Item,Description,Quantity,Unit Price ($ AUD),Total Price ($ AUD),URL,Running Total,USD
+Kailh Choc Hotswap Socket x 10,Hotswap socket,60,$0.15,$9.00,https://www.alibaba.com/product-detail/Hotswap-Sockets-PCB-Hot-Swap-Socket_1601586781518.html?spm=a2700.galleryofferlist.normal_offer.d_image.239713a0l9O9cZ&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=4693347af9bb4df9b295717c90db4b57,$9.00,$5.94
+Rotary Encoder Modules EC11 Digital Potentiometer Push Button Switch,rotary encoder with knob,2,$0.43,$0.86,Create idea 5 Kits of 360 Degree Rotary Encoder Modules EC11 Digital Potentiometer Push Button Switch 5 Pins 20mm Shaft with Black Knob Cap : Amazon.com.au,$9.86,$6.51
+Rotary Encoder Control Button Knob,Rotary encoder Knob,2,$0.92,$1.84,https://www.alibaba.com/product-detail/ALUMINUM-Matte-Black-Diameter-13mm-Rotary_1601317368755.html?spm=a2700.galleryofferlist.topad_classic.d_title.25de13a0vsIGcc&priceId=abb42289494c41baa65b0d7fa71773fa,$11.70,$7.73
+Kailh Low Profile Choc Brown - 30 pack,Switches,2,$37.99,$75.98,"KAILH Official Store Low Profile Switch 1350 Chocolate Mechanical Keyboard Switch RGB SMD Clicky (30, Choc Brown)",$85.84,$56.68
+Kailh CHOC Slim Keycaps - Milky White - 10 pack,Keycaps,60,$0.53,$31.80,https://www.alibaba.com/product-detail/Chosfox-CFX-Low-Profile-Choc-PBT_1601568672382.html?spm=a2700.galleryofferlist.normal_offer.d_title.587e13a0FTMXmg&priceId=6ac41c709e534a69b93e2a0fc3f09ef5,$117.64,$77.68
+402050 LiPo,Battery,2,$3.80,$7.60,https://www.aliexpress.com/p/tesla-landing/index.html?scenario=c_ppc_item_bridge&productId=32662701530&_immersiveMode=true&withMainCard=true&src=google&aff_platform=true&isdl=y,$125.24,$82.70
+JLCPCB manufacturing ,PCB,2,$13.00,$26.00,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=180&stencilLength=130&stencilCounts=5&plateType&spm=Jlcpcb.Homepage.1010,$151.24,$99.87
+3D printed case,Case,1,-,-,-,$151.24,$99.87
