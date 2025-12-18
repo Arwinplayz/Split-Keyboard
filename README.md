@@ -31,7 +31,7 @@ This keyboard is a **split design**, fully programmable using KMK firmware. The 
 | Kailh Low Profile Choc Brown (30 pack) | Switches | 2 | $27.99 | $55.98 | [AliExpress](https://www.aliexpress.com/item/1005005970877769.html) | $58.36 | $38.51 |
 | Kailh CHOC Slim Keycaps – Milky White (10 pack) | Keycaps | 2 | $15.69 | $31.38 | [AliExpress](https://www.aliexpress.com/item/1005009153609513.html) | $89.74 | $59.21 |
 | 402050 LiPo Battery | Battery | 2 | $3.80 | $7.60 | [AliExpress](https://www.aliexpress.com/item/32662701530.html) | $97.34 | $64.23 |
-| JLCPCB Manufacturing | PCB | 2 | $13.00 | $26.00 | [JLCPCB](https://cart.jlcpcb.com/quote) | $123.34 | $81.38 |
-| 3D Printed Case | Case | 1 | – | – | – | $123.34 | $81.38 |
+| JLCPCB Manufacturing | PCB | 1 | $33.00 | $33.00 | [JLCPCB](https://cart.jlcpcb.com/quote) | $130.34 | $86.04 |
+| 3D Printed Case | Case | 1 | – | – | – | $130.34 | $86.04 |
 
 
